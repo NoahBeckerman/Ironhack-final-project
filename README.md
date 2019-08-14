@@ -5,37 +5,37 @@
 [![](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://www.python.org/psf-landing/)[![](https://www.mysql.com/common/logos/includes-mysql-125x64.png)](https://www.mysql.com)
 
 
-This project is an example of some of the things that I have learned or improved on at my time in Ironhack. Below are some the Languages and technologies I have used on this project.
+This project is an example of some of the things that I have learned or improved on at my time in Ironhack. Below are some languages and technologies I have used on this project.
 
 
 
 
-The main goal of the project was to find a interesting data set and apply some key learning points from [Ironhack] to it. some of these key points I will be showing today include the follwing:
- * Data Procurment
- * Data Wrangaling
+The main goal of the project was to find a interesting data set and apply some key learning points from [Ironhack] to it. some of these key points I will be showing today include the following:
+ * Data Procurement
+ * Data Wrangling
  * Data Cleaning
  * Data Manipulation
- * Inferential Analyisis
+ * Inferential Analysis
  * Applied Supervised Machine Learning
- * Data Coversion/Exportation
- * And we cant forget the best part... Data Analysis
+ * Data Conversion/Exportation
+ * And we can't forget the best part... Data Analysis
 # Fun Facts!
 
   - This project was inspired by my classmates, whom all seem to be beer enthusiast at this point.
   - The reason I took this challenge was because almost everyone did data with a predictable outcome. 
-  - - To explain a little more, I challenged myself to use data that was largley incomplete to show the skills I have learned.
+  - - To explain a little more, I challenged myself to use data that was largely incomplete to show the skills I have learned.
   - More than half of the data was missing from the start.
 
 ### Tech
 
-This project uses a number of open source libraries and tools to work accomplish the goals:
+This project uses a number of open source libraries and tools to accomplish the goals:
 
-* [Python] - The amazing Object Oriented Programming Languange.
+* [Python] - The amazing Object Oriented Programming Language.
 * [MYSQL] - The greatest Structured Query Language to exist. 
-* [Pandas] - Used for loading, manipluating, and cleaning the data.
-* [Numpy] - Used for converting the data into arrays the machine learning algorithim can use.
-* [Seaborn] - Used for analasis of the data.
-* [Matplotlib] - Used for analasis of the data.
+* [Pandas] - Used for loading, manipulating, and cleaning the data.
+* [Numpy] - Used for converting the data into arrays the machine learning algorithm can use.
+* [Seaborn] - Used for analysis of the data.
+* [Matplotlib] - Used for analysis of the data.
 * [Sqlalchemy] - Used to connect the Python IDE to a local MYSQL Database .
 * [Scikit] - Used for the machine learning.
 * [Tableau] - Used for presenting the data findings.
@@ -63,7 +63,7 @@ $ pip3 install pymysql
 
 ### The Data Team!
 
-Everything that was done in this project was not withought the help of everyone below. These people were here from start to finish, and have helped eachother with everything this course has thrown at us. Special thanks to Himanshu, our wonderfull teacher that has shown me the light on what it means to be a Data Analyst.
+Everything that was done in this project was not without the help of everyone below. These people were here from start to finish, and have helped each other with everything this course has thrown at us. Special thanks to Himanshu, our wonderful teacher that has shown me the light on what it means to be a Data Analyst.
 
 | Person | Linkedin |
 | ------ | ------ |
