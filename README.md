@@ -10,7 +10,7 @@ This project is an example of some of the things that I have learned or improved
 
 
 
-The main goal of the project was to find a interesting data set and apply some key learning points from [Ironhack]. Some of these key points I will be showing today include the following:
+The main goal of the project was to find a interesting data set and apply some key learning points from [Ironhack]. Some of these key points I have used, include the following:
  * Data Procurement
  * Data Wrangling
  * Data Cleaning
