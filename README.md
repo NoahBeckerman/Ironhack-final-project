@@ -39,6 +39,7 @@ This project uses a number of open source libraries and tools to work accomplish
 * [Sqlalchemy] - Used to connect the Python IDE to a local MYSQL Database .
 * [Scikit] - Used for the machine learning.
 * [Tableau] - Used for presenting the data findings.
+* [Jupyter Notebook] - The IDE used to run the code.
 
 
 
@@ -46,7 +47,8 @@ This project uses a number of open source libraries and tools to work accomplish
 
 This project requires [Python] to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and run the code in `main.ipynb`
+!!!Please note, you will need [Jupyter Notebook] to run the script.!!!
 
 ```sh
 $ pip3 install pandas
@@ -88,5 +90,6 @@ Everything that was done in this project was not withought the help of everyone 
    [Sqlalchemy]: <https://www.sqlalchemy.org/>
    [Scikit]: <https://scikit-learn.org/stable/>
    [Tableau]: <https://www.tableau.com/>
+   [Jupyter Notebook]: <https://jupyter.org/>
    [Ironhack]: <https://www.ironhack.com/en>
 
