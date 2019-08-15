@@ -58,7 +58,7 @@ $ pip3 install sqlalchemy
 $ pip3 install pymysql
 ```
 
-# Terminoligy
+# Terminology
 
 | Term | Description |
 | ------ | ------ |
