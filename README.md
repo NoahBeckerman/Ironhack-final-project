@@ -59,7 +59,8 @@ $ pip3 install pymysql
 ```
 
 # What we have collected from the data
-You can check out a interactive Tableau Workbook on the data here: [Beer Workbook]
+You can check out a interactive Tableau Workbook on the data here: [Beer Workbook].
+
 Here we can see the top five breweries and the major information about them. Some key points we can take from this data are:
 * Ale seems to be the most produced for majority of this sample.
 * The strongest drink seems to be .1% ABV.
