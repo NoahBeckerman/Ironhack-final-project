@@ -108,8 +108,6 @@ Everything that was done in this project was not without the help of everyone be
 | Himanshu Aggarwal | https://www.linkedin.com/in/himanshu-aggarwal-71172320/ |
 
 
-**Free Software, Hell Yeah!**
-
    [MYSQL]: <https://www.mysql.com/>
    [Python]: <https://www.python.org/>
    [Pandas]: <https://pandas.pydata.org/>
