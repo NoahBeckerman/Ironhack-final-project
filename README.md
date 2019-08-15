@@ -7,7 +7,7 @@
 This project is an example of some of the things that I have learned or improved on at my time in Ironhack. Below are some languages and technologies I have used on this project.
 
 
-The main goal of the project was to find a interesting data set and apply some key learning points from [Ironhack]. Some of these key points I have used, include the following:
+The main goal of the project was to find an interesting data set and apply some key learning points from [Ironhack]. Some of these key points I have used, include the following:
  * Data Procurement
  * Data Wrangling
  * Data Cleaning
