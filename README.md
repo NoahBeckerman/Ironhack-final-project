@@ -59,25 +59,25 @@ $ pip3 install pymysql
 ```
 
 # What we have collected from the data
+You can check out a interactive Tableau Workbook on the data here: [Beer Workbook]
 Here we can see the top five breweries and the major information about them. Some key points we can take from this data are:
-1.) Ale seems to be the most produced for majority of this sample.
-2.) The strongest drink seems to be .1% ABV.
-3.) There are some companies that have more than one location.
+* Ale seems to be the most produced for majority of this sample.
+* The strongest drink seems to be .1% ABV.
+* There are some companies that have more than one location.
 
 [![](https://github.com/NoahBeckerman/Ironhack-final-project/blob/master/Visuals/Screen%20Shot%202019-08-14%20at%209.12.23%20PM.png?raw=true)](https://github.com/NoahBeckerman/Ironhack-final-project/)
 
 Below is a comparison between the average ABV and IBU to styles of beer. Some key points from this data is:
-1.) IPA seems to be the strongest, and most bitter on avarage.
-2.) Stout seems to be a less bitter alternitive to IPA, with roughly the same strength.
-3.) The most mild, least bitter, least strongest beer on avarage seems to be Pilsner.
+* IPA seems to be the strongest, and most bitter on avarage.
+* Stout seems to be a less bitter alternitive to IPA, with roughly the same strength.
+* The most mild, least bitter, least strongest beer on avarage seems to be Pilsner.
 
 [![](https://github.com/NoahBeckerman/Ironhack-final-project/blob/master/Visuals/Screen%20Shot%202019-08-14%20at%209.13.08%20PM.png)](https://github.com/NoahBeckerman/Ironhack-final-project/)
 
-
 Another interasting point that was found in the data was how the drink sizes vary based on style. Down below is what can be considerd from the data.
-1.) IPA, and ALE both come in 5 diffrent sizes. This can idicate that in some markets, the beer can be small and strong, or large and bitter. (This adds much complexity to the data.)
-2.) The special beers (Other) come in several diffrent sizes, indicating that it might be for a more specific target group.
-3.) The less commonaly consumed drinks such as Porter or Cider come in much fewer sizes, indicating that there might be less of a market for the styles.
+* IPA, and ALE both come in 5 diffrent sizes. This can idicate that in some markets, the beer can be small and strong, or large and bitter. (This adds much complexity to the data.)
+* The special beers (Other) come in several diffrent sizes, indicating that it might be for a more specific target group.
+* The less commonaly consumed drinks such as Porter or Cider come in much fewer sizes, indicating that there might be less of a market for the styles.
 
 [![](https://github.com/NoahBeckerman/Ironhack-final-project/blob/master/Visuals/Screen%20Shot%202019-08-14%20at%209.13.29%20PM.png)](https://github.com/NoahBeckerman/Ironhack-final-project/)
 
@@ -109,3 +109,4 @@ Everything that was done in this project was not without the help of everyone be
    [Tableau]: <https://www.tableau.com/>
    [Jupyter Notebook]: <https://jupyter.org/>
    [Ironhack]: <https://www.ironhack.com/en>
+   [Beer Workbook]: <https://public.tableau.com/profile/noah.beckerman#!/vizhome/Ironhack-Final-Project/Top5Breweriesandtheirinformation>
