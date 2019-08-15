@@ -59,11 +59,15 @@ $ pip3 install pymysql
 ```
 
 # Terminoligy
-> abv - The alcoholic content by volume with 0 being no alcohol and 1 being pure alcohol.
-> ibu - International bittering units, which describe how bitter a drink is.
-> name - Beer Name
-> style - Beer style (lager, ale, IPA, etc.)
-> brewery_id - Unique identifier for brewery that produces this beer; can use to join with brewery info
+
+| Term | Description |
+| ------ | ------ |
+| abv| The alcoholic content by volume with 0 being no alcohol and 1 being pure alcohol. |
+| ibu | International bittering units, which describe how bitter a drink is. |
+| name | The beer's name |
+| style | The beer's style (Lager, Ale, IPA, etc.) |
+| brewery_id| Unique identifier for brewery that produces this beer; can use to join with brewery info |
+
 
 # What we have collected from the data
 You can check out a interactive Tableau Workbook on the data here: [Beer Workbook].
